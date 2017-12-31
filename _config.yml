@@ -1,16 +1,16 @@
-layout_spectrum: 0.284384908460929
-typography_spectrum: 0.03945613506286967
+layout_spectrum: 0.37123660233895306
+typography_spectrum: 0.9279280899694687
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.7993132758231852
-  lightness: 0.7427684887230286
-  saturation: 0.7062463773243903
-  rhythmicContrast: 0.8615918949047232
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.5018603194292893
+  lightness: 0.6324903465228359
+  saturation: 0.9175687335061813
+  rhythmicContrast: 1
 name: Nervace
 content: []
 github: true
